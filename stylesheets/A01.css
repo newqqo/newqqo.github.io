@@ -1,0 +1,28 @@
+section figure img {
+    width: 100%;
+    max-width: 100%;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+section figcaption {
+    text-align: center;
+}
+
+section {
+    width: 100%;
+    /background-color: gray;
+    text-align: left;
+}
+
+section p {
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+ul {
+    list-style: circle;
+    padding-left: 70px;
+}
