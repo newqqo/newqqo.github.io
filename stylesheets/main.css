@@ -2,7 +2,7 @@
     /*border: 1px solid gray;*/
     max-height: 100%;
     text-align: center;
-    display:inline;
+    
 }
 
 .nav ul {
@@ -16,6 +16,7 @@
     font-weight: 700;
     text-align: center;
     margin: 0 5px 0 0;
+    float:left;
 }
 
 .nav ul li a {
